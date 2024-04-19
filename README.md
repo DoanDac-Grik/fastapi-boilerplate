@@ -6,9 +6,9 @@ Update later
 
 ## Tech
 
-- [Framework]: FastAPI - Python
-- [Database]: MySQL
-- [ORM]: SQLModel
+- FastAPI: Python
+- Database: MySQL
+- ORM: SQLModel
 
 ## Installation & Running
 
